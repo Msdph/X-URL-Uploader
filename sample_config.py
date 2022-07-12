@@ -2,7 +2,7 @@ import os
 
 class Config(object):
     # get a token from @BotFather
-    TG_BOT_TOKEN = "5312037196:AAHfbb03rufKcyhuOhqkD0waPjJ3jFrv5wU"
+    TG_BOT_TOKEN = "5231953052:AAH4RuM8ZGrz9K0e3P6uXsXkoEEqQT2vIHk"
     # The Telegram API things
     APP_ID = 2669389
     API_HASH = "59f112100d19186dc03cd93fb7f2904a"
@@ -27,4 +27,4 @@ class Config(object):
     # set timeout for subprocess
     PROCESS_MAX_TIMEOUT = 3600
     # watermark file
-    DEF_WATER_MARK_FILE = ""
+    DEF_WATER_MARK_FILE = "shot"
